@@ -4,20 +4,21 @@
 
 Derived from Modern and conceived in the wake of the turbulent events of
 *Hogaak* Summer, *Urza* Autumn, *Oko* Winter, and Companion Spring, Traditional
-seeks to explore a more traditional style of Magic, where games are not
-dominated by Planeswalkers and "pushed" mythic rares. To this end, the initial
-ruleset is simple and straightforward: the standard Modern game rules,
-cardpool, and banlist are used, but Planeswalkers, cards printed only at mythic
-rarity, and the Companion mechanic are removed. The result is a format that is
-a refreshing respite from what constructed Magic has become in recent years.
+is a community-run constructed format that seeks to explore a more traditional
+style of Magic, where games are not dominated by Planeswalkers and "pushed"
+mythic rares. To this end, the initial ruleset is simple and straightforward:
+the standard Modern game rules, cardpool, and banlist are used, but
+Planeswalkers, cards printed only at mythic rarity, and the Companion mechanic
+are removed. The result is a refreshing respite from what Magic has become in
+recent years.
 
 ### Why Not Planeswalkers and Mythics
 
 At over 13000 cards, the Modern cardpool is extremely deep. Yet decklists are
 increasingly dominated by cards and mechanics from recent sets, with many decks
 looking more like Standard decks with fetchlands and a few older removal spells
-thrown in, than decks built with cards from almost two decades of sets. Much
-of this can be attributed to the power creep associated with Wizards of the
+thrown in, than decks built with cards from almost two decades of sets. Much of
+this can be attributed to the power creep associated with Wizards of the
 Coast's new F.I.R.E design philosophy, but the effects have not been evenly
 distributed across card types and rarities.
 
@@ -29,7 +30,7 @@ Veils* (although she mostly affects Vintage and Legacy) while the Planeswalker
 card type remains difficult to profitably interact with. *Oko* was simply a
 case of pushing way too hard with not enough testing, but *Karn*, *Teferi*, and
 *Narset* are emblematic of negative trends in Magic design with their one-sided
-static abilities that uninterestingly remove the ability of just one of the
+static abilities which uninterestingly remove the ability of just one of the
 players to do something. The former even caused Wizards to ban an utterly
 inoffensive card in *Mycosynth Lattice* in Modern due to their unstated policy
 of not banning expensive new cards superseding their long time stated policy of
@@ -40,7 +41,7 @@ originally stated that the rarity would be reserved for "Planeswalkers, most
 legends, and epic-feeling creatures and spells" rather than "utility
 cards...cards that fill a universal function" and while Shards of Alara—the set
 that introduced mythic rarity—did only feature such cards, within a few sets
-this principle was abandoned as tournament staples that were highly sought
+this principle was abandoned as tournament staples which were highly sought
 after but don't "feel epic" like *Lotus Cobra*, *Brazen Borrower*, and
 (counting upshifts) *Tarmogoyf* were printed at mythic. Today, the rarity
 largely feels like a dumping ground for highly pushed cards so they can command
@@ -85,15 +86,16 @@ development but so far it shown itself to be much healthier and more varied
 than Modern's. At the time of writing UGx snow piles and Gruul *Utopia Sprawl*
 midrange are arguably the top two archetypes in Modern and while they lose
 critical cards in *Uro*, *Klothys, God of Destiny*, and all of their
-planeswalkers, both remain in the top tier of Traditional with undefeated
-tournament runs. However, a large number of strategies that have been relegated
-to a distant tier 2 in Modern like merfolk, the aforementioned old school
-*Cryptic*-*Scapeshift*, and *Martyr*-*Proc* (featuring maindeck *Lurrus of the
-Dream-Den*) are now competitive with these decks. A large number of new brews
-have emerged as well, with players experimenting with different Tron builds
-including mono-black and even one that plays *Siege Rhino*, a variety of
-black-centric zombie and devotion decks, storm builds with *Pyromancer
-Ascension* and *Aria of Flame*, and many more.
+planeswalkers, both remain in the top tier of Traditional with undefeated runs
+in the weekly community tournament. However, a large number of strategies that
+have been relegated to a distant tier 2 in Modern like merfolk, the
+aforementioned old school *Cryptic*-*Scapeshift*, and *Martyr*-*Proc*
+(featuring maindeck *Lurrus of the Dream-Den*) are now competitive with these
+decks. A large number of new brews have emerged as well, with players
+experimenting with different Tron builds including mono-black and even one
+which plays *Siege Rhino*, a variety of black-centric zombie and devotion
+decks, storm builds with *Pyromancer Ascension* and *Aria of Flame*, and many
+more.
 
 ### Take the Tradpill Today
 
@@ -102,14 +104,14 @@ For years Modern was known as a format where a diverse array of tier 1, tier
 creep of recent releases has allowed the top strategies to pull far ahead,
 leaving only an enormous gap between the first and second tiers. At the same
 time, contemporary Magic gameplay is often the least enjoyable it has ever
-been, with Planeswalkers, pushed mythics, and Companions creating games that
+been, with Planeswalkers, pushed mythics, and Companions creating games which
 are frequently uninteractive, one-sided, and homogeneous. Traditional rights
 these wrongs by striking the problem at its core, removing entire categories of
 design mistakes and returning Magic to the amazing game it once was.
 
 Reject Modernity, embrace Tradition!
 
-### Postscript
+#### Postscript
 
 Although the Traditional community is currently focused on a Modern-based
 format, the simple ruleset of removing Planeswalkers, mythics, and the
