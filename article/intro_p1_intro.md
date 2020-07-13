@@ -40,7 +40,7 @@ legends, and epic-feeling creatures and spells" rather than "utility
 cards...cards that fill a universal function" and while Shards of Alara—the set
 that introduced mythic rarity—did only feature such cards, within a few sets
 this principle was abandoned as tournament staples that were highly sought
-after but didn't "feel epic" like *Lotus Cobra*, *Brazen Borrower*, and
+after but don't "feel epic" like *Lotus Cobra*, *Brazen Borrower*, and
 (counting upshifts) *Tarmogoyf* were printed at mythic. Today, the rarity
 largely feels like a dumping ground for highly pushed cards so they can command
 high prices while not ruining limited formats too badly. Indeed, the removal of
@@ -93,7 +93,7 @@ Dream-Den*) are now competitive with these decks. A large number of new brews
 have emerged as well, with players experimenting with different Tron builds
 including mono-black and even one that plays *Siege Rhino*, a variety of
 black-centric zombie and devotion decks, storm builds with *Pyromancer
-Ascension* and *Aria of Flame*, plus many more.
+Ascension* and *Aria of Flame*, and many more.
 
 ### Take the Tradpill Today
 
