@@ -51,8 +51,9 @@ that must-have mythics have their price temporarily inflated by their legality
 in Standard. For example, many Modern decks contain the full playset of *Uro,
 Titan of Nature's Wrath* which would have cost you a frankly silly $280 for
 four pieces of cardboard at its peak. To add insult to injury, at the time of
-writing you would have already lost $100 of value due to the impending Standard
-rotation.
+writing you would have already lost $100 of value at the time of writing due to
+the impending Standard rotation with more losses to come when it actually
+arrives.
 
 The rationale behind the removal of the Companion rule requires no explanation.
 Do note that it is perfectly legal to play Companions as normal creatures in
