@@ -1,4 +1,4 @@
-# Traditional, a New Magic: The Gathering Constructed Format <sub>[[home](https://traditionalmtg.github.io)][[discord](https://discordapp.com/invite/DGBwDRq)]</sub>
+# Traditional, a New Magic: The Gathering Constructed Format<br><sub>[[home](https://traditionalmtg.github.io)][[discord](https://discordapp.com/invite/DGBwDRq)]</sub>
 
 ## Part I: An Introduction
 
