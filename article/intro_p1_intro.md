@@ -1,4 +1,5 @@
-# Traditional, a New Magic: The Gathering Constructed Format
+# Traditional, a New Magic: The Gathering Constructed Format <sub>[[home](https://traditionalmtg.github.io)][[discord](https://discordapp.com/invite/DGBwDRq)]</sub>
+
 ## Part I: An Introduction
 
 Derived from Modern and conceived in the wake of the turbulent events of
@@ -50,10 +51,9 @@ warped around the mythic du jour as Wizards continues to push and push meaning
 that must-have mythics have their price temporarily inflated by their legality
 in Standard. For example, many Modern decks contain the full playset of *Uro,
 Titan of Nature's Wrath* which would have cost you a frankly silly $280 for
-four pieces of cardboard at its peak. To add insult to injury, at the time of
-writing you would have already lost $100 of value at the time of writing due to
-the impending Standard rotation with more losses to come when it actually
-arrives.
+four pieces of cardboard at its peak. To add insult to injury, you would have
+already lost $100 of value at the time of writing due to the impending Standard
+rotation with more losses to come when it actually arrives.
 
 The rationale behind the removal of the Companion rule requires no explanation.
 Do note that it is perfectly legal to play Companions as normal creatures in
@@ -108,3 +108,16 @@ these wrongs by striking the problem at its core, removing entire categories of
 design mistakes and returning Magic to the amazing game it once was.
 
 Reject Modernity, embrace Tradition!
+
+### Postscript
+
+Although the Traditional community is currently focused on a Modern-based
+format, the simple ruleset of removing Planeswalkers, mythics, and the
+Companion mechanic can be applied to almost any format with great effect.
+Standard, Pioneer, Legacy, and Vintage have all been roiled by the trio in
+recent years much in the same way as Modern. Many excellent cubes are already
+Traditional or close and Commander, where the Companion mechanic is simply
+inelegant, is likely a very interesting place to try the rules as well. Last
+but not least, traditional Pauper is the ultimate hedge against War of the
+Spark II where Wizards prints their next beautiful Planeswalker mistake at
+common.
