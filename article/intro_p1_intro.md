@@ -109,7 +109,7 @@ are frequently uninteractive, one-sided, and homogeneous. Traditional rights
 these wrongs by striking the problem at its core, removing entire categories of
 design mistakes and returning Magic to the amazing game it once was.
 
-Reject Modernity, embrace Tradition!
+[Reject Modernity, embrace Tradition!](https://discordapp.com/invite/DGBwDRq)
 
 #### Postscript
 
