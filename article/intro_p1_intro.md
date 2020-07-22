@@ -8,9 +8,9 @@ is a community-run constructed format that seeks to explore a more traditional
 style of Magic, where games are not dominated by Planeswalkers and "pushed"
 mythic rares. To this end, the initial ruleset is simple and straightforward:
 the standard Modern game rules, cardpool, and banlist are used, but
-Planeswalkers, cards printed only at mythic rarity, and the Companion mechanic
-are removed. The result is a refreshing respite from what Magic has become in
-recent years.
+Planeswalkers¹, cards printed only at mythic rarity², and the Companion
+mechanic are removed. The result is a refreshing respite from what Magic has
+become in recent years.
 
 ### Why Not Planeswalkers and Mythics
 
@@ -123,3 +123,8 @@ inelegant, is likely a very interesting place to try the rules as well. Last
 but not least, traditional Pauper is the ultimate hedge against War of the
 Spark II where Wizards prints their next beautiful Planeswalker mistake at
 common.
+***
+[1] This includes flip cards like *Kytheon, Hero of Akros*.
+
+[2] As in Pauper, downshifts are added to the format upon release and upshifts
+do not affect legality.
